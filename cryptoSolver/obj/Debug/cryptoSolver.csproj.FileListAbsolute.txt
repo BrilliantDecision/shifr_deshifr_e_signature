@@ -1,0 +1,12 @@
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\bin\Debug\cryptoSolver.exe.config
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\bin\Debug\cryptoSolver.exe
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\bin\Debug\cryptoSolver.pdb
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.MyFrom.resources
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.Properties.Resources.resources
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.exe
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.pdb
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Angel\source\repos\cryptoSolver\cryptoSolver\obj\Debug\cryptoSolver.csproj.CopyComplete
